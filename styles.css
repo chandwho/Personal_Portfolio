@@ -50,8 +50,12 @@ body{
     justify-content: center;
     gap: 30px;
     background-color: beige;
+    text-align: center;
 }
 
+/* #welcome-section >div{
+    width: 70%;
+} */
 #projects{
     padding: 100px 20px;
     background-color: #c1cc89;
